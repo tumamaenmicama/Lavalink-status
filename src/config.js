@@ -16,9 +16,9 @@ module.exports = {
       reconnectTries: 100,
     },
     {
-      host: "",  
-      password: "", 
-      port: 0, 
+      host: "104.167.222.158",  
+      password: "Joshua.141516", 
+      port: 12222, 
       identifier: "",
       secure: false,
       reconnectTimeout: 300000,
